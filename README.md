@@ -4,13 +4,6 @@
 ## Desafio 01 | Cocamar
 #### O objetivo deste desafio é criar um sistema automático de identificação das pragas que atingem a lavoura de soja citadas acima. Para esse desafio aconselhamos que o participante utilize o IBM Watson Visual Recognition e monte o seu classificador através dele. Antes o participante terá que separar manualmente as imagens da base nas classes citadas anteriormente. Caso considere pertinente, cada participante pode manipular as imagens da base previamente afim de melhorar a acurácia de classificação do modelo do Watson Visual Recognition.
 
-Vamos focar somente nas quatro principais pragas que atigem a lavoura de soja, são elas:
-
-Lagarta da soja
-Percevejo marrom
-Percevejo pequeno
-Percevejo verde
-
 ## Desafio 02 | UNINASSAU
 #### Neste desafio, o participante irá utilizar ferramentas da IBM como o Watson Machine Learning e o Cloud Pak for Data para construir um modelo baseado em machine learning e integrá-lo com uma solução de assistente virtual, voltada para a tutoria remota. Sua tarefa será aprimorar um modelo já fornecido e integrar os diversos serviços envolvidos nessa solução!
 

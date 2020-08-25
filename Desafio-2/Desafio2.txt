@@ -1,0 +1,1 @@
+https://us-south.ml.cloud.ibm.com/v3/wml_instances/aa6db3c0-f064-410f-ae43-8585c6225be3/deployments/6ed6c696-c1ad-4e82-a85e-70bb8836dfdc/online

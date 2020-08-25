@@ -1,0 +1,5 @@
+
+Visual Recognition-d3
+model_id: Cocamar_model_02_773901878
+api key: Ljh8obLaFKvBMpKr5Nm-vtMZAxmI6PWfRgSBWXtghxGc
+url: https://api.us-south.visual-recognition.watson.cloud.ibm.com/instances/77e23aa8-bbc3-40f0-92fd-474187bde7a8

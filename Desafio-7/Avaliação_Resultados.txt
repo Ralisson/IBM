@@ -1,0 +1,111 @@
+///////////Resultado-01
+
+num_folds = 20
+
+Index(['Original_473', 'Original_269', 'Zero', 'Maca_Verde', 'Tangerina',
+       'Citrus', 'Acai_Guarana', 'Pessego', 'TARGET', 'Estação_Ana Rosa',
+       'Estação_Barra Funda', 'Estação_Brigadeiro', 'Estação_Brooklin',
+       'Estação_Brás', 'Estação_Butantã', 'Estação_Campo Belo',
+       'Estação_Consolação', 'Estação_Eucaliptos', 'Estação_Faria Lima',
+       'Estação_Fradique Coutinho', 'Estação_Higienópolis-Mackenzie',
+       'Estação_Hospital São Paulo', 'Estação_Luz', 'Estação_Moema',
+       'Estação_Paraíso', 'Estação_Pinheiros', 'Estação_República',
+       'Estação_São Joaquim', 'Estação_São Judas', 'Estação_Sé',
+       'Estação_Tamanduateí', 'Estação_Tatuapé', 'Estação_Trianon-Masp',
+       'Estação_Vila Mariana'],
+
+
+Acuracia mean / std
+
+LR: 0.681399 (0.014146)
+LDA: 0.681662 (0.014119)
+SVM: 0.704555 (0.012246)
+RanF: 0.914653 (0.011038)***
+ExtraTree: 0.895136 (0.011027)***
+GBoost: 0.736310 (0.012899)
+AdaBoost: 0.710463 (0.013108)
+CART: 0.909695 (0.011327) ***
+
+
+
+////////// Resultados 02
+
+num_folds = 20
+'LAT', 'LONG', 'Original_473', 'Original_269', 'Zero', 'Maca_Verde',
+       'Tangerina', 'Citrus', 'Acai_Guarana', 'Pessego'
+
+
+Acuracia mean / std
+
+LR: 0.680660 (0.013300)
+LDA: 0.681505 (0.012509)
+SVM: 0.701021 (0.011989)
+NB: 0.694112 (0.012264)
+KNN: 0.748601 (0.013718)
+RanF: 0.916922 (0.010596) ***
+SGD: 0.618832 (0.096186)
+ExtraTree: 0.899778 (0.011446) ***
+GBoost: 0.735941 (0.011941)
+AdaBoost: 0.709514 (0.012765)
+CART: 0.909852 (0.011115) ***
+
+
+
+/////////////Resultado 03
+
+num_folds = 20
+
+'LAT', 'LONG', 'Original_473'
+
+
+Acuracia mean / std
+LR: 0.678446 (0.011290)
+LDA: 0.678446 (0.011290)
+SVM: 0.678446 (0.011290)
+NB: 0.678446 (0.011290)
+KNN: 0.668003 (0.018610)
+RanF: 0.686201 (0.011609)
+ExtraTree: 0.692267 (0.012122)
+GBoost: 0.697857 (0.012591)
+AdaBoost: 0.696433 (0.011495)
+DesTree: 0.692583 (0.012286)
+
+///////// Resultado 04
+
+num_folds = 40
+
+'LAT', 'LONG', 'Original_473', 'Original_269', 'Zero', 'Maca_Verde',
+       'Tangerina', 'Citrus', 'Acai_Guarana', 'Pessego'
+
+
+
+Acuracia mean / std
+RanF: 0.916817 (0.016161)
+ExtraTree: 0.900094 (0.016887)
+GBoost: 0.736890 (0.016167)
+AdaBoost: 0.710885 (0.018572)
+DesTree: 0.911172 (0.015203)
+
+
+//////////Resultado 05
+
+num folds = 30
+
+Acuracia mean / std
+RanF: 0.994456 (0.001823)
+ExtraTree: 0.993701 (0.001652)
+DesTree: 0.993656 (0.001937)
+
+
+///// Resultado 06 com adição de 2000 registro a base e rate de 0,3 entre treino e teste
+
+RanF: 0.995768 (0.001872)
+ExtraTree: 0.995151 (0.001933)
+DesTree: 0.995481 (0.001839)
+
+///// Resultado 06 com adição de 4000 registro a base e rate de 0,33 entre treino e teste
+
+
+RanF: 0.997392 (0.001394)
+ExtraTree: 0.997200 (0.001291)
+DesTree: 0.996957 (0.001489)

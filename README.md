@@ -22,7 +22,7 @@
 ## Desafio 07 | TNT
 #### Os desenvolvedores deverão utilizar IBM Watson Studio, e IoT na IBM Cloud para criar um modelo preditivo capaz de alertar momento ideal que será necessária uma nova recarga de uma máquina de venda automática de TNT. Os participantes deverão se conectar a dispositivos IoT para receber os dados de estoque das máquinas em tempo real, e ajudar a empresa na reposição, onde a máquina de venda automática somente será visitada quando houver a necessidade de reabastecimento, poupando gastos desnecessários.
 
-## Desafio 07 | Fiat Chrysler Automobiles
+## Desafio 08 | Fiat Chrysler Automobiles
 #### O Grupo FCA, em busca constante de melhoria de qualidade de seus serviços, bem como dar a melhor experiência para seus clientes, busca soluções tecnológicas, através do reconhecimento de voz, para capturar feedbacks e comentários de forma automática, e através de AI, analisar sentimento, e identificar partes relevantes do produto nesta experiência, como por exemplo, sobre motor, desempenho, acabamento, consumo, etc, e assim poder fazer recomendações e melhorar a experiência do usuário de forma evolutiva. Esta solução poderá ser utilizada durante a experiência de seus clientes, teste de engenharia e qualidade.
 
 
